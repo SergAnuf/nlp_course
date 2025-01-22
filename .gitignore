@@ -7,8 +7,8 @@ node_modules
 *~
 *.swp
 
-
-
+week01_embeddings/embeds
+.nlp_couse_env
 env.sh
 # Byte-compiled / optimized / DLL files
 __pycache__/
