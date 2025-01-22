@@ -63,3 +63,7 @@ Course materials and teaching performed by
 - [30+ volunteers](https://github.com/yandexdataschool/nlp_course/graphs/contributors) who contributed and refined the notebooks and course materials. Without their help, the course would not be what it is today
 - [A mighty host of TAs](https://lk.yandexdataschool.ru/courses/2023-autumn/7.1171-avtomaticheskaia-obrabotka-tekstov/) who stoically grade hundreds of homework submissions from on-campus students each year
 
+
+# Reference book
+https://web.stanford.edu/~jurafsky/slp3/
+
